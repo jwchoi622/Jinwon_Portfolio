@@ -1,7 +1,3 @@
-
-
-
-
 # [Project 1: Titanic Dataset: Project Overview](https://github.com/jwchoi622/titanicdataset)
 * Used the pandas to manipulate the dataset
 * Used seaborn for data visualization
