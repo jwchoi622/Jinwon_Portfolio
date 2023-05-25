@@ -15,3 +15,6 @@
 * Analyzed the dataset with different visualizations to better understand the data
 * Looked at different models before choosing the best model to predict house prices. 
 * Used RMSE to look at the performance of Random Forest, Linear Regression and XGBoost
+![](/images/1.png)
+![](/images/2.png)
+![](/images/3.png)
