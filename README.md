@@ -10,3 +10,8 @@
 * The 5 fighters used were Conor McGregor, Jon Jones, Sean O'Malley, Chael Sonnen and Daniel Cormier
 * Model achieves around 90% accuracy 
 ![](/images/fightergraph.png)
+
+# [Project 3: House Price Regression](https://github.com/jwchoi622/housePricing)
+* Analyzed the dataset with different visualizations to better understand the data
+* Looked at different models before choosing the best model to predict house prices. 
+* Used RMSE to look at the performance of Random Forest, Linear Regression and XGBoost
