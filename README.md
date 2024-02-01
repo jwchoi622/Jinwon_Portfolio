@@ -1,5 +1,4 @@
 # [Air Quality Data Web Application with Django](https://github.com/jwchoi622/aqproj)
-
 ## Overview
 This project is a Django-based web application designed to provide up to date air quality information for any city in the world. I used the AQICN API to get the air quality data and Leaflet to get the map on the website. Lastly I used PythonAnywhere to deploy the application. The application is accessible at [https://jwchoi622.pythonanywhere.com](https://jwchoi622.pythonanywhere.com). 
 ## Features
@@ -21,16 +20,30 @@ This project is a Django-based web application designed to provide up to date ai
 ### AQICN API
 - **Description:** I used this AQICN to get the air quality data, widget, forecast data and also the map tiles.
 - **Documentation:** [https://aqicn.org/api/](https://aqicn.org/api/)
-
 ### Leaflet API
 - **Description:** I used the Leaflet API to get an interactive map of the queried city.
 - **Documentation:** [https://leafletjs.com/reference.html](https://leafletjs.com/reference.html)
-
 ### OpenCage Geocoding API
 - **Description:** I used the OpenCage API to get the latitude and longitude of the city and fed those coordinates into the Leaflet map. 
 - **Documentation:** [https://opencagedata.com/api](https://opencagedata.com/api)
 
 ![](/images/pic2.png)
+
+# [End-to-End Azure Data Engineering Project](https://github.com/jwchoi622/TokyoOlympics)
+## Overview
+This project is an Azure-based data engineering project, focusing on the entire data pipeline from ingestion to visualization. It starts with data preprocessing, leveraging Azure Data Factory for ingestion and Databricks for transformation. The project demonstrates effective use of Azure's ecosystem, emphasizing learning and skill development within Azure services. Key components include handling Kaggle datasets, data transformation, analytics with Azure Synapse, and visualization with Tableau due to compatibility considerations. This project serves as an introductory exploration into Azure platform capabilities, data pipeline design, and data insight generation.
+
+## Technologies Used
+- Azure Data Factory
+- Azure Databricks
+- Azure SQL Database
+- Azure Data Lake
+- Tableau
+
+## Additional Resources
+- **Project Walkthrough on Medium**: A comprehensive overview of the project's data engineering process on Azure. [Read the article here](https://medium.com/@jwchoi622/end-to-end-azure-data-engineering-project-73ade8163e91).
+
+- **Tokyo Olympics Dashboard on Tableau**: Interactive visualizations showcasing insights derived from the Tokyo Olympics dataset. [View the dashboard here](https://public.tableau.com/app/profile/james.choi1221/viz/TokyoOlympics_17022794668810/TokyoOlympicsDashboard?publish=yes).
 
 
 
@@ -52,20 +65,3 @@ This project is a Django-based web application designed to provide up to date ai
 * **Project Documentation:** Demonstrated proficiency in documenting and explaining the project steps, from data preprocessing to model architecture, in a clear and organized manner.
 ![](/images/fightergraph.png)
 
-# [House Price Regression](https://github.com/jwchoi622/housePricing)
-* **Data Exploration and Analysis:** Conducted thorough data exploration by examining summary statistics, identifying missing values, and investigating the relationships between various features and the target variable (SalePrice).
-
-* **Model Selection and Hyperparameter Tuning:** Employed a variety of regression models, including Linear Regression, Random Forest, and XGBoost, and performed hyperparameter tuning to optimize model performance. The best models were identified based on the root mean square error (RMSE).
-
-* **Feature Engineering:** Engineered new features, such as property age, total living area, and total bathrooms, to improve model accuracy and capture valuable insights into housing prices. Categorical variables were appropriately encoded for modeling.
-
-* **Principal Component Analysis (PCA):** Applied PCA for dimensionality reduction to reduce multicollinearity and enhance the efficiency of regression models while maintaining predictive performance.
-
-* **Ensemble Modeling:** Employed ensemble techniques by combining predictions from different models (Random Forest, XGBoost, and a Multilayer Perceptron Regressor) to create a more robust and accurate final prediction.
-![](/images/1.png)
-![](/images/2.png)
-![](/images/3.png)
-
-
-<br>
-<br>
