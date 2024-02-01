@@ -26,7 +26,6 @@ This project is a Django-based web application designed to provide up to date ai
 ### OpenCage Geocoding API
 - **Description:** I used the OpenCage API to get the latitude and longitude of the city and fed those coordinates into the Leaflet map. 
 - **Documentation:** [https://opencagedata.com/api](https://opencagedata.com/api)
-
 ![](/images/pic2.png)
 
 # [End-to-End Azure Data Engineering Project](https://github.com/jwchoi622/TokyoOlympics)
@@ -43,12 +42,8 @@ This project is an Azure-based data engineering project, focusing on the entire 
 
 ## Additional Resources
 - **Project Walkthrough on Medium**: A comprehensive overview of the project's data engineering process on Azure. [Read the article here](https://medium.com/@jwchoi622/end-to-end-azure-data-engineering-project-73ade8163e91).
-
 - **Tokyo Olympics Dashboard on Tableau**: Interactive visualizations showcasing insights derived from the Tokyo Olympics dataset. [View the dashboard here](https://public.tableau.com/app/profile/james.choi1221/viz/TokyoOlympics_17022794668810/TokyoOlympicsDashboard?publish=yes).
-
 ![](/images/dashboard.png)
-
-
 
 
 # [UFC Fighter Image Classification](https://github.com/jwchoi622/fighterClassification)
