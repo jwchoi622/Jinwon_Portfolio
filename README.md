@@ -30,7 +30,7 @@ This project is a Django-based web application designed to provide up to date ai
 - **Description:** I used the OpenCage API to get the latitude and longitude of the city and fed those coordinates into the Leaflet map. 
 - **Documentation:** [https://opencagedata.com/api](https://opencagedata.com/api)
 
-![](/aqproj/websitetop.png)
+![](/images/pic2.png)
 
 
 
