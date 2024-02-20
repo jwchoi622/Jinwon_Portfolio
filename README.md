@@ -46,7 +46,7 @@ This project is an Azure-based data engineering project, focusing on the entire 
 ![](/images/dashboard.png)
 
 
-# [UFC Fighter Image Classification](https://github.com/jwchoi622/fighterClassification)
+# [Project 3: UFC Fighter Image Classification](https://github.com/jwchoi622/fighterClassification)
 # **UFC 파이터 이미지 분류 프로젝트**
 ## **개요**
 이 프로젝트는 파이터의 이미지를 정확하게 식별하고 분류할 수 있는 이미지 분류 모델을 개발하는 것을 목표로 합니다. 본 모델은 컨볼루션 신경망(CNN)을 사용하여 준비된 데이터셋에서 파이터들의 시각적 특징을 바탕으로 서로 다른 파이터들을 구별하도록 학습합니다.
