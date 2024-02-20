@@ -37,7 +37,7 @@
 이 프로젝트는 데이터 수집부터 시각화까지 전체 데이터 파이프라인에 중점을 둔 Azure 기반 데이터 엔지니어링 프로젝트입니다. Azure Data Factory를 활용한 데이터 전처리로 시작하여 Databricks에서 변환을 진행합니다. 프로젝트는 Azure의 생태계를 효과적으로 활용하며, Azure 서비스 내에서의 학습 및 기술 개발을 강조합니다. 주요 구성 요소로는 Kaggle 데이터셋 처리, 데이터 변환, Azure Synapse를 이용한 분석, 호환성 고려 사항으로 인한 Tableau를 이용한 시각화가 포함됩니다. 이 프로젝트는 Azure 플랫폼 기능, 데이터 파이프라인 설계, 데이터 인사이트 생성으로의 입문적 탐구를 제공합니다.
 
 
-## **사용된 기술**
+## **사용된 기능**
 1) Azure Data Factory  
 2) Azure Databricks  
 3) Azure SQL Database  
