@@ -1,5 +1,4 @@
-# [Project 1: Air Quality Data Web Application](https://github.com/jwchoi622/aqproj)
-# **대기질 지수 웹 애플리케이션**
+# [대기질 지수 웹 애플리케이션](https://github.com/jwchoi622/aqproj)
 ## **개요**
 이 프로젝트는 세계 어느 도시의 최신 대기질 정보를 제공하기 위해 Django 기반으로 설계된 웹 응용 프로그램입니다. AQICN API를 사용하여 대기질 데이터를 가져오고, 웹사이트에 지도를 표시하기 위해 Leaflet를 사용했습니다. 마지막으로 PythonAnywhere를 사용하여 응용 프로그램을 배포했습니다. 이 응용 프로그램은 https://jwchoi622.pythonanywhere.com에서 접근할 수 있습니다.
 
@@ -32,8 +31,7 @@
 문서: https://opencagedata.com/api  
 ![](/images/pic2.png)
 
-# [End-to-End Azure Data Engineering Project](https://github.com/jwchoi622/TokyoOlympics)
-# **Azure 데이터 엔지니어링 프로젝트**
+# [앤드 투 앤드 Azure 데이터 엔지니어링 프로젝트](https://github.com/jwchoi622/TokyoOlympics)
 
 ## **개요**
 이 프로젝트는 데이터 수집부터 시각화까지 전체 데이터 파이프라인에 중점을 둔 Azure 기반 데이터 엔지니어링 프로젝트입니다. Azure Data Factory를 활용한 데이터 전처리로 시작하여 Databricks에서 변환을 진행합니다. 프로젝트는 Azure의 생태계를 효과적으로 활용하며, Azure 서비스 내에서의 학습 및 기술 개발을 강조합니다. 주요 구성 요소로는 Kaggle 데이터셋 처리, 데이터 변환, Azure Synapse를 이용한 분석, 호환성 고려 사항으로 인한 Tableau를 이용한 시각화가 포함됩니다. 이 프로젝트는 Azure 플랫폼 기능, 데이터 파이프라인 설계, 데이터 인사이트 생성으로의 입문적 탐구를 제공합니다.
@@ -55,8 +53,8 @@
 ![](/images/dashboard.png)
 
 
-# [Project 3: UFC Fighter Image Classification](https://github.com/jwchoi622/fighterClassification)
-# **UFC 파이터 이미지 분류 프로젝트**
+# [UFC 파이터 이미지 분류 프로젝트](https://github.com/jwchoi622/fighterClassification)
+
 ## **개요**
 이 프로젝트는 파이터의 이미지를 정확하게 식별하고 분류할 수 있는 이미지 분류 모델을 개발하는 것을 목표로 합니다. 본 모델은 컨볼루션 신경망(CNN)을 사용하여 준비된 데이터셋에서 파이터들의 시각적 특징을 바탕으로 서로 다른 파이터들을 구별하도록 학습합니다.
 
