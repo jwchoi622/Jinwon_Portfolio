@@ -1,4 +1,4 @@
-# [피자 레스토랑 데이터 분석] https://github.com/jwchoi622/pizzashop)
+# [피자 레스토랑 데이터 분석] (https://github.com/jwchoi622/pizzashop)
 
 ## 문제
 새로운 레스토랑이 주문, 재고, 직원을 분석할 수 있는 데이터베이스와 방법이 필요합니다.
@@ -11,7 +11,7 @@ QuickDBD에서 SQL 데이터베이스를 설계합니다.
 ![](/images/query.png)
 
 대시보드를 얻기 위해 Looker Studio를 사용합니다.
-![](/images/dashboard.png)
+![](/images/dashboard2.png)
 
 ## 인사이트
 1. 재고를 보충해야 할 몇 가지 재료가 있습니다
