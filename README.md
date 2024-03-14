@@ -1,4 +1,5 @@
-# [피자 레스토랑 데이터 분석] (https://github.com/jwchoi622/pizzashop)
+
+# [식당 데이터분석](https://github.com/jwchoi622/aqproj)
 
 ## 문제
 새로운 레스토랑이 주문, 재고, 직원을 분석할 수 있는 데이터베이스와 방법이 필요합니다.
